@@ -1,0 +1,3 @@
+requires 'AnyEvent' => '7.07';
+requires 'AnyEvent::Twitter::Stream' => '0.27';
+requires 'Encode' => '2.63';
